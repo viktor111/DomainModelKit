@@ -1,5 +1,6 @@
 ![](https://github.com/viktor111/DomainModelKit/actions/workflows/dotnet.yml/badge.svg)
 # DomainModelKit
+Common Domain Driven Desing patterns for building domain models and domain layer of clean architecture
 
 ## Download
 `dotnet add package DomainModelKit`
