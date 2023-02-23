@@ -1,3 +1,4 @@
+![](https://github.com/viktor111/DomainModelKit/actions/workflows/dotnet.yml/badge.svg)
 # DomainModelKit
 
 ## BaseDomainException
