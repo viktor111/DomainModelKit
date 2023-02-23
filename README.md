@@ -1,6 +1,9 @@
 ![](https://github.com/viktor111/DomainModelKit/actions/workflows/dotnet.yml/badge.svg)
 # DomainModelKit
 
+## Download
+`dotnet add package DomainModelKit`
+
 ## BaseDomainException
 `BaseDomainException` is an abstract class representing a base class for domain exceptions. It extends `Exception`.
 
